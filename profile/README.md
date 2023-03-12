@@ -2,7 +2,7 @@
 
 ## Community development and Support for Plugwise Products
 
-- python [plugwise](https://github.com/plugwise/python-plugwise)
+- python [plugwise](https://github.com/plugwise/python-plugwise) module
 - `custom_component` [plugwise-beta](https://github.com/plugwise/plugwise-beta)
 
 Included in these repositories are a python [plugwise](https://github.com/plugwise/python-plugwise) module, published to [pypi](https://pypi.org/project/plugwise/) for use in your projects though mainly focussed on support for [Home Assistant (Core)](https://github.com/home-assistant/core). Pending inclusion of USB support for Plugwise into HA-Core and for development purposes we offer a `custom_component` through [plugwise-beta](https://github.com/plugwise/plugwise-beta).
