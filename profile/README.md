@@ -2,12 +2,19 @@
 
 ## Community development and Support for Plugwise Products
 
-- python [plugwise](https://github.com/plugwise/python-plugwise) module
+Networked Plugwise products (i.e. Smile (Anna/Adam/P1) or Stretch):
+
+- Smile python [plugwise](https://github.com/plugwise/python-plugwise) module
 - `custom_component` [plugwise-beta](https://github.com/plugwise/plugwise-beta)
+
+USB Plugwise product (i.e. Stick):
+
+- USB python [plugwise](https://github.com/plugwise/python-plugwise-usb) module
+- `custom_component` upcoming, though earlier versions of `plugwise-beta` above support both Smile and Stick
 
 Included in these repositories are a python [plugwise](https://github.com/plugwise/python-plugwise) module, published to [pypi](https://pypi.org/project/plugwise/) for use in your projects though mainly focussed on support for [Home Assistant (Core)](https://github.com/home-assistant/core). Pending inclusion of USB support for Plugwise into HA-Core and for development purposes we offer a `custom_component` through [plugwise-beta](https://github.com/plugwise/plugwise-beta).
 
-Module (python) providing interfacing with the Plugwise devices:
+Smile Module (python) providing interfacing with the Networked Plugwise devices:
 
 - [x] Adam
   - [x] Lisa
@@ -19,6 +26,10 @@ Module (python) providing interfacing with the Plugwise devices:
   - [x] Aqara Plug
 - [x] Anna
 - [x] Smile P1
+- [x] Stretch
+
+USB Module (python) providing interfacing with USB Plugwise Device:
+
 - [x] Stick
   - [x] Circle+ / Stealth+
   - [x] Circle / Stealth
@@ -26,7 +37,9 @@ Module (python) providing interfacing with the Plugwise devices:
   The devices listed below have **NOT** been tested and are therefore unknown for their correct operation
     - [x] Sense
     - [x] Switch
-- [x] Stretch
+
+Overall Status:
+
 - [x] [Home-Assistant](https://home-assistant.io) via
   - [x] Native supporting networked Plugwise products
   - [ ] Native supporting USB Plugwise products (in progress)
