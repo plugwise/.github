@@ -9,7 +9,7 @@ Networked Plugwise products (i.e. Smile (Anna/Adam/P1) or Stretch):
 
 USB Plugwise product (i.e. Stick):
 
-- USB python [plugwise](https://github.com/plugwise/python-plugwise-usb) module
+- USB python [plugwise_usb](https://github.com/plugwise/python-plugwise-usb) module
 - `custom_component` upcoming, though earlier versions of `plugwise-beta` above support both Smile and Stick
 
 Included in these repositories are a python [plugwise](https://github.com/plugwise/python-plugwise) module, published to [pypi](https://pypi.org/project/plugwise/) for use in your projects though mainly focussed on support for [Home Assistant (Core)](https://github.com/home-assistant/core). Pending inclusion of USB support for Plugwise into HA-Core and for development purposes we offer a `custom_component` through [plugwise-beta](https://github.com/plugwise/plugwise-beta).
