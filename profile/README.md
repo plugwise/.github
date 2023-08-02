@@ -5,6 +5,7 @@
 Networked Plugwise products (i.e. Smile (Anna/Adam/P1) or Stretch):
 
 - Smile python [plugwise](https://github.com/plugwise/python-plugwise) module
+- Home Assistant Core [integration](https://www.home-assistant.io/integrations/plugwise/) / [source](https://github.com/home-assistant/core/tree/dev/homeassistant/components/plugwise)
 - `custom_component` [plugwise-beta](https://github.com/plugwise/plugwise-beta)
 
 USB Plugwise product (i.e. Stick):
