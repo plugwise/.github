@@ -8,8 +8,9 @@ Networked Plugwise products (i.e. Smile (Anna/Adam/P1) or Stretch):
 - Home Assistant Core [integration](https://www.home-assistant.io/integrations/plugwise/) / [source](https://github.com/home-assistant/core/tree/dev/homeassistant/components/plugwise)
 - `custom_component` [plugwise-beta](https://github.com/plugwise/plugwise-beta)
 
-USB Plugwise product (i.e. Stick):
+USB Plugwise product (i.e. Stick): 
 
+- :triangular_flag_on_post: [Help wanted](https://github.com/plugwise/plugwise_usb-beta/issues/67) for USB Plugwise - see [this issue](https://github.com/plugwise/plugwise_usb-beta/issues/67) for more information
 - USB python [plugwise_usb](https://github.com/plugwise/python-plugwise-usb) module
 - `custom_component` [plugwise_usb-beta](https://github.com/plugwise/plugwise_usb-beta), 
 
