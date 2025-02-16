@@ -1,5 +1,8 @@
 # Plugwise
 
+For any questions or support reach out to us by ![Static Badge](https://img.shields.io/badge/Plugwise_Discord--purple?style=social&logo=discord&link=https%3A%2F%2Fdiscord.gg%2FmFVhF8Ar6A) or submit any bugs to the applicable repository below.
+
+
 ## Community development and Support for Plugwise Products
 
 Networked Plugwise products (i.e. Smile (Anna/Adam/P1) or Stretch):
@@ -50,7 +53,7 @@ Overall Status:
 
 ## Thanks / About us
 
-Main team consists of @bouwew (mainly Smile), @brefra (USB), @compatech (Overall and Smile) and @dirixmjm (USB) - supported by helpful additions and reports from many community members! On the HA-Core team we also have @frenck as code-owner for the Smile integration.
+Main team (alphabetically) consists of @ArnoutD_77 (USB), @bouwew (USB & Smile), @brefra (USB), @compatech (Overall and Smile) and @dirixmjm (USB) - supported by helpful additions and reports from many community members! On the HA-Core team we also have @frenck as former code-owner for the Smile integration.
 
 On behalf all of us, big thanks to Plugwise and community members @riemers and @tane from HAshop for their support and obviously all our users and testers who dealt with our typos and challenges. Disclaimer, while we are communicating with Plugwise and they expressed their gratitude through their newsletter, we are not part of Plugwise as a company. We are just a bunch of guys anxious to get our (and your) Plugwise products working with Home Assistant.
 
